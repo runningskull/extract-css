@@ -22,8 +22,8 @@
   "dependencies": {
     "batch": "^0.5.2",
     "href-content": "^1.0.0",
-    "list-stylesheets": "^1.0.0",
-    "style-data": "^1.0.0"
+    "list-stylesheets": "git://github.com/runningskull/list-stylesheets.git#master",
+    "style-data": "git://github.com/runningskull/style-data.git#master"
   },
   "devDependencies": {
     "gulp": "^3.8.10",
